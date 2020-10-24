@@ -42,6 +42,9 @@ public class day1 {
 				
 				
 		};
+		
+		
+		
 
 	}
 
